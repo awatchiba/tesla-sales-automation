@@ -35,20 +35,6 @@ This is mainly a beginner practice project to get more comfortable with Python a
 
 ---
 
-## 📂 Project Structure
-
-tesla-sales-automation/
-│── src/
-│   └── analyze_sales.py       # Main script
-│
-│── tesla_sales.csv            # Simulated dataset (not real)
-│
-│── sales_by_region.png        # Chart created after running script
-│── monthly_trend.png          # Chart created after running script
-│
-└── README.md
-
----
 
 ## ▶️ How to Run
 
@@ -64,7 +50,7 @@ python src/analyze_sales.py
 
 ## 📈 Sample Outputs
 
-(You can paste your charts here once they generate.)
+(charts go here)
 
 ---
 
